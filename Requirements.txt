@@ -1,0 +1,15 @@
+jupyter
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow
+keras
+h5py
+protobuf
+sklearn==0.0
+shap
+opencv-python
+opencv-contrib-python
+
+#python 3.10.0
