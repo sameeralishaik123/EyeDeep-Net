@@ -1,17 +1,6 @@
-jupyter
-numpy
-pandas
-matplotlib
-seaborn
-tensorflow
-keras
-h5py
-protobuf
-sklearn==0.0
-shap
-opencv-python
-opencv-contrib-python
-opencv-python-headless
-cv2
-streamlit
+streamlit==1.44.1
+tensorflow==2.15.0
+opencv-python-headless==4.9.0.80
+numpy==1.26.4
+
 # python 3.10.0
