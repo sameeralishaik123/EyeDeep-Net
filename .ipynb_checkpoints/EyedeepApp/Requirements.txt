@@ -13,5 +13,5 @@ opencv-python
 opencv-contrib-python
 opencv-python-headless
 cv2
-
+streamlit
 # python 3.10.0
